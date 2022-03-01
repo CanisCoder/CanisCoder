@@ -2,6 +2,7 @@
 <h3 align="center">A Real Life Android Developer💻 And Passionate For DevOps ♾️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caniscoder&label=Profile%20views&color=0e75b6&style=flat" alt="caniscoder" /> </p>
+<p align="right"> <img src="https://www.canva.com/design/DAE5ugTL9EU/2rYFMQuBXx0HTQ8Um9U4Fg/view?utm_content=DAE5ugTL9EU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink " /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caniscoder" alt="caniscoder" /></a> </p>
 
