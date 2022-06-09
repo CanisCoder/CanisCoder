@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caniscoder" alt="caniscoder" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/canis_coder" target="blank"><img src="https://img.shields.io/twitter/follow/canis_coder?logo=twitter&style=for-the-badge" alt="canis_coder" /></a> </p>
+<p align="left"> <a href="https://twitter.com/canistwt" target="blank"><img src="https://img.shields.io/twitter/follow/canis_coder?logo=twitter&style=for-the-badge" alt="canis_coder" /></a> </p>
 
 - 🔭 I’m currently working on [All-In-One-Application-](https://github.com/CanisCoder/All-In-One-Application-)
 
