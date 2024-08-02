@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️, I'm ANAND KUMAR MAURYA</h1>
-<h3 align="center">MERN Developer💻 And Passionate For DevOps ♾️</h3>
+<h3 align="center">Jr. DevOps Engineer ♾️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caniscoder&label=Profile%20views&color=0e75b6&style=flat" alt="caniscoder" /> </p>
 
