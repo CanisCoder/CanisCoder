@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️, I'm ANAND KUMAR MAURYA</h1>
-<h3 align="center">Jr. DevOps Engineer ♾️</h3>
+<h3 align="center">DevOps Engineer ♾️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caniscoder&label=Profile%20views&color=0e75b6&style=flat" alt="caniscoder" /> </p>
 
@@ -8,15 +8,13 @@
 <p align="left"> <a href="https://twitter.com/Canistwt" target="blank"><img src="https://img.shields.io/twitter/follow/Canistwt?logo=twitter&style=for-the-badge" alt="Canistwt" /></a> </p>
 
 - 🔭 I’m currently working on [Tryeno Softwares]
-- 🌱 I’m currently learning **DevOps, Kubernetes, Docker, (Android - Flutter, Kotlin)**
+- 🌱 I’m currently learning **DevOps, Kubernetes, Docker, AWS, CI/CD, Terraform, Linux, Networking**
 
-- 👯 I’m looking to collaborate on [kubernetes](https://github.com/kubernetes/kubernetes)
-
-- 💬 Ask me about **Java, c, react, flutter, android studio, Linux,**
+- 💬 Ask me about **Linux, DevOps, Kubernetes, Docker, AWS, CI/CD**
 
 - 📫 How to reach me **anandmaurya8877@gmail.com**
 
-- ⚡ Fun fact **Well I'm exist in every types of mood 😜**
+- ⚡ Fun fact **Well I'm exist in every kind of mood 😜**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
